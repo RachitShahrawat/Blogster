@@ -1,5 +1,5 @@
-BlogVerse: A Medium-Inspired Blogging Platform
-BlogVerse is a sleek blogging platform where writers can share their stories while readers enjoy a distraction-free reading experience
+Blogster: A Medium-Inspired Blogging Platform
+Blogster is a sleek blogging platform where writers can share their stories while readers enjoy a distraction-free reading experience
 
 Tech stack :-
 
